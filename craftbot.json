@@ -1968,7 +1968,7 @@
 		"craftTime": 8,
 		"ingredientList": [
 			{
-				"quantity": 16,
+				"quantity": 6,
 				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
 			}
 		]
@@ -1980,7 +1980,7 @@
 		"craftTime": 2,
 		"ingredientList": [
 			{
-				"quantity": 4,
+				"quantity": 2,
 				"itemId": "1016cafc-9f6b-40c9-8713-9019d399783f"
 			}
 		]
