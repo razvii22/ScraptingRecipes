@@ -1,4 +1,4 @@
-// this file is generated
+// this file is very uwu
 [
 	{
 		"itemId": "8c7efc37-cd7c-4262-976e-39585f8527bf",
@@ -2639,6 +2639,18 @@
 			{
 				"quantity": 2,
 				"itemId": "8e3e3ef6-5fc0-4e8a-b07e-398d3d6a100a"
+			}
+		]
+	},
+	{
+		//Crane wheel
+		"itemId": "c4aa3807-0806-4202-a36d-b5fa254d3046",
+		"quantity": 1,
+		"craftTime": 4,
+		"ingredientList": [
+			{
+				"quantity": 5,
+				"itemId": "8aedf6c2-94e1-4506-89d4-a0227c552f1e"
 			}
 		]
 	}
